@@ -1,0 +1,13 @@
+{
+  "name": "nodendations",
+  "version": "1.0.0",
+  "description": "A crude recommendation engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "ug": "^0.0.8"
+  },
+  "author": "John Hidey"
+}
